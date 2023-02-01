@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "mongoose": "^5.9.17"
+    "mongoose": "^5.13.15"
   }
 }
